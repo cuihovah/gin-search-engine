@@ -2,7 +2,23 @@
 
 ```
 
-	利用Gin开发的搜索引擎，仅供学习使用
+	Search engine developed with Gin, for learning purposes only.
+```
+## Quick Start
+
+```shell
+
+	go build main.go && ./main
+```
+Or
+
+```shell
+
+	go run main.go
 ```
 
-- version: v0.0.1
+## LICENSE
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2017-present, Yunfeng Cui (Cuihovah)
